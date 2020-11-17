@@ -2,7 +2,7 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
-
+sys.path.append('/home/ubuntu/.cache/pypoetry/virtualenvs/de-bois-webapp-k45V3OCh-py3.8')
 
 def main():
     """Run administrative tasks."""
