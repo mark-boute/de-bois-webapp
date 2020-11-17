@@ -25,7 +25,11 @@ SECRET_KEY = 'byyj+n^6-#dll$$zxp@w21o6xntea4dyqrbw6=@6e(_t=gekhy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    '0.0.0.0',
+    '192.168.1.4',
+    '83.80.223.157',
+]
 
 
 # Application definition
